@@ -12,107 +12,107 @@
 This project presents an interactive Excel Business Intelligence Dashboard built using 8,314 retail transactions from 2021 to 2024.
 It provides a complete view of sales, profitability, customer value, and geographic performance, enabling data‑driven decision‑making.
 
-The dashboard is powered by:
+- The dashboard is powered by:
 
-Cleaned and structured data
+- Cleaned and structured data
 
-Pivot tables
+- Pivot tables
 
-Advanced Excel charts
+- Advanced Excel charts
 
-Slicers for interactivity
+- Slicers for interactivity
 
 # 🔍 Key Insights
 ⭐ Executive KPIs
-Total Sales: €1.93M
+- Total Sales: €1.93M
 
-Total Profit: €248K
+- Total Profit: €248K
 
-Profit Margin: ~13%
+- Profit Margin: ~13%
 
-Customers Served: 2,300+
+- Customers Served: 2,300+
 
 # 🧩 Sales Breakdown
 📂 Sales by Category (Doughnut Chart)
-Technology – €704K (37%)
+- Technology – €704K (37%)
 
-Furniture – €622K (32%)
+- Furniture – €622K (32%)
 
-Office Supplies – €602K (31%)
+- Office Supplies – €602K (31%)
 
-A well‑balanced product mix with Technology leading.
+- A well‑balanced product mix with Technology leading.
 
 # 🔽 Sales by Sub‑Category (Funnel Chart)
 Top performers:
 
-Phones – €279K
+- Phones – €279K
 
-Chairs – €277K
+- Chairs – €277K
 
-Storage – €191K
+- Storage – €191K
 
-Binders & Tables follow
+- Binders & Tables follow
 
-Labels & Fasteners contribute smaller but steady sales
+- Labels & Fasteners contribute smaller but steady sales
 
 # 🗺️ Geographic Performance (US Map)
-California – €390K (Top market)
+- California – €390K (Top market)
 
-New York – €247K
+- New York – €247K
 
-Texas – €151K
+- Texas – €151K
 
 Strong coastal performance with growth opportunities in central states.
 
 # 📈 Profit Trends (Yearly)
-2021: €50K
+- 2021: €50K
 
-2022: €62K
+- 2022: €62K
 
-2023: €82K (Peak year)
+- 2023: €82K (Peak year)
 
-2024: €55K
+- 2024: €55K
 
-Technology remains the most profitable category.
+- Technology remains the most profitable category.
 
 # 📅 Monthly Seasonality
-December peaks at ~€35K
+- December peaks at ~€35K
 
-March strong at €29K
+- March strong at €29K
 
-Sep–Nov consistently above €22K
+- Sep–Nov consistently above €22K
 
-January & April are slower months
+- January & April are slower months
 
-These patterns support inventory and marketing planning.
+- These patterns support inventory and marketing planning.
 
 # 🏆 Top Customers
-Tamara Chand – €9K profit
+- Tamara Chand – €9K profit
 
-Raymond Buch – €6.9K
+- Raymond Buch – €6.9K
 
-Sanjit Chand – €5.8K
+- Sanjit Chand – €5.8K
 
-Adrian Barton – €5.2K
+- Adrian Barton – €5.2K
 
-Martinez – €3.9K
+- Martinez – €3.9K
 
-Top 5 customers contribute €30K+ in profit.
+- Top 5 customers contribute €30K+ in profit.
 
 # 🛠️ Tools & Techniques Used
--Microsoft Excel
+- Microsoft Excel
 
--Pivot Tables & Pivot Charts
+- Pivot Tables & Pivot Charts
 
--Doughnut, Funnel, Map, and Line Charts
+- Doughnut, Funnel, Map, and Line Charts
 
 -Slicers for interactivity
 
--Data cleaning & transformation
+- Data cleaning & transformation
 
--KPI card design
+- KPI card design
 
--Dashboard layout optimization
+- Dashboard layout optimization
 
 # 📁 Project Structure
 Code
@@ -123,20 +123,25 @@ Code
  └── README.md
  
 # 🎯 Purpose of This Project
-This dashboard demonstrates:
+- This dashboard demonstrates:
 
-Business analytics capability
+- Business analytics capability
 
-Data storytelling
+- Data storytelling
 
-Dashboard design skills
+- Dashboard design skills
 
-Ability to convert raw data into insights
+- Ability to convert raw data into insights
 
-Excel BI proficiency
+- Excel BI proficiency
 
-Perfect for showcasing in a data analyst portfolio.
+- Perfect for showcasing in a data analyst portfolio.
 
 # 📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
+- This project is licensed under the MIT License.
+- See the LICENSE file for details.
+
+  # 👩‍💻 Author
+- Pavani Bandla  
+- 📧 Email: pavani.bandla25@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pavani-bandla2225 (linkedin.com in Bing)
