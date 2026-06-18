@@ -114,14 +114,14 @@ Strong coastal performance with growth opportunities in central states.
 
 - Dashboard layout optimization
 
-# 📁 Project Structure
-Code
-📂 Sales-and-Profit--Excel-Dashboard
- ├── 📊 Dashboard.xlsx
- ├── 📄 Data (raw & cleaned)
- ├── 🎬 Presentation Script
- └── README.md
- 
+## 📁 Project Structure
+
+    Sales-and-Profit--Excel-Dashboard/
+    ├── Dashboard.xlsx
+    ├── Data/
+    ├── Presentation Script.txt
+    └── README.md
+
 # 🎯 Purpose of This Project
 - This dashboard demonstrates:
 
